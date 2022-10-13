@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Blogs from './Pages/Blogs/Blogs';
 import Home from './Pages/Home/Home';
+import AllPowerTools from './Pages/Home/Products/PowerTools/AllPowerTools';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header';
 import Shop from './Pages/Shop/Shop';
@@ -16,6 +17,7 @@ function App() {
       <Route path='/home' element={<Home></Home>}></Route>
       <Route path='/shop' element={<Shop></Shop>}></Route>
       <Route path='/blogs' element={<Blogs></Blogs>}></Route>
+      <Route path='/allPowerTools' element={<AllPowerTools></AllPowerTools>}></Route>
      </Routes>
      <Footer></Footer>
     </div>
