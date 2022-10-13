@@ -27,7 +27,7 @@ const SupportAndService = () => {
                 </div>
             </div>
 
-            <div className=" flex justify-center items-center my-2 py-7 h-32 w-[90%] bg-base-100 border border-primary mx-2 hover:shadow-lg cursor-pointer hover:rounded-md">
+            <div className=" flex justify-center items-center my-4 py-7 h-32 w-[90%] bg-base-100 border border-primary mx-2 hover:shadow-lg cursor-pointer hover:rounded-md">
                 <div className='pr-4'>
                     <FontAwesomeIcon className='text-primary text-5xl' icon={faUserClock}></FontAwesomeIcon>
                 </div>

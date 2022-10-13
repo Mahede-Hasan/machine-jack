@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588296/machine_jack/products/powertools/drill8_bcnftk.jpg",
+      "name": "Total Drill Machine",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/drill6_stagds.jpg",
+      "name": "Total Drill 800W",
+      "price": 45
+    },
+    {
+      "id": 3,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/drill2_zk5iu8.png",
+      "name": "Ingco Drill 700W",
+      "price": 38
+    },
+    {
+      "id": 4,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588296/machine_jack/products/powertools/drill10_f437wt.jpg",
+      "name": "Harden Drill Machine",
+      "price": 42
+    },
+    {
+      "id": 5,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/drill5_typ0s3.jpg",
+      "name": "Total Drill 900W",
+      "price": 50
+    },
+    {
+      "id": 6,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/drill4_dwcpyp.jpg",
+      "name": "Tolsen Drill Machine",
+      "price": 32
+    },
+    {
+      "id": 7,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588296/machine_jack/products/powertools/drill7_hqawox.jpg",
+      "name": "Ingco Drill Box",
+      "price": 54
+    },
+    {
+      "id": 8,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/drill2_asffeo.jpg",
+      "name": "Ingco Drill 1200W",
+      "price": 41
+    },
+    {
+      "id": 9,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588295/machine_jack/products/powertools/carwash5_llwxld.jpg",
+      "name": "Car Wash 200W",
+      "price": 40
+    },
+    {
+      "id": 10,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/carwash2_a2kolq.jpg",
+      "name": "Total Car Wash",
+      "price": 48
+    },
+    {
+      "id": 11,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/drill11_vilaxk.jpg",
+      "name": "Ingco heavy Drill",
+      "price": 60
+    },
+    {
+      "id": 12,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/carwash1_ylsoal.jpg",
+      "name": "Car Wash",
+      "price": 36
+    },
+    {
+      "id": 13,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/carwash4_npltiy.jpg",
+      "name": "Car Wash Machine",
+      "price": 28
+    },
+    {
+      "id": 14,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/vacum6_daon0i.jpg",
+      "name": "Vacume Machine",
+      "price": 36
+    },
+    {
+      "id": 15,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/cacum2_uauxhi.jpg",
+      "name": "Vacume Machine",
+      "price": 30
+    },
+    {
+      "id": 16,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588294/machine_jack/products/powertools/vacum5_n36ets.jpg",
+      "name": "Vacume Machine",
+      "price": 32
+    },
+    {
+      "id": 17,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665588293/machine_jack/products/powertools/vacum1_hbr1mp.jpg",
+      "name": "Vacume Machine 300W",
+      "price": 26
+    }
+  ]

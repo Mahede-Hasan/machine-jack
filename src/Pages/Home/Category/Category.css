@@ -1,0 +1,22 @@
+.category-image {
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.category-image img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+
+.category-image:hover img {
+    transform: scale(1.5);
+    color: orange;
+}
+
+.hide-text {
+    display: none;
+}
+
+.card-body:hover .hide-text {
+    display: block;
+}
