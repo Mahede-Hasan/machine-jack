@@ -1,0 +1,25 @@
+.logo {
+    font-size: 36px;
+    font-weight: 800;
+    font-family: 'Signika', sans-serif;
+}
+
+.search-input{
+    border-radius: 3px 0px 0px 3px !important;
+}
+
+.search-btn{
+    border-radius: 0px 3px 3px 0px !important;
+}
+
+.all-category:hover {
+    background-color: #f78d02;
+}
+
+.dropdown {
+    position: fixed;
+    z-index: 999;
+    top: 154px;
+    width: 17.25%;
+    border-radius: 0% !important;
+}

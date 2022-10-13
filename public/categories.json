@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Power Tools",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665516458/machine_jack/power-tools_fdozmq.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hand Tools",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665516458/machine_jack/hand-tools_mdg6i6.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Blower",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665516457/machine_jack/blower_gqc7hy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Grinder",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665516458/machine_jack/grinder_owddiu.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Air Compressor",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665518935/machine_jack/air-compressor_z9cxqk.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Safety Security",
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665516457/machine_jack/safety-security_ntkzav.jpg"
+    }
+  ]
