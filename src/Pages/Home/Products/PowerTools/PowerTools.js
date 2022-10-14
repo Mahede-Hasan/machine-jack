@@ -1,20 +1,13 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
-
 import React from 'react';
-import { useQuery } from 'react-query';
 import { Link } from 'react-router-dom';
 import PowerTool from './PowerTool';
+import usePowerTools from '../../../../hooks/usePowerTools';
 
 const PowerTools = () => {
-    const { isLoading, error, data: powerTools } = useQuery('powerTools', () =>
-        fetch('products/powerTools.json').then(res => res.json())
-    )
+const [powerTools] = usePowerTools()
 
-    if (isLoading) return 'Loading...'
-
-    if (error) return 'An error has occurred: ' + error.message
-    console.log(powerTools)
     return (
         <div>
             <div className="divider"></div>
@@ -32,9 +25,9 @@ const PowerTools = () => {
               
             </div>
             <div className='text-end pr-12 pt-12'>
-              <Link className='text-2xl border border-primary py-1 px-3' to='/allPowerTools'><FontAwesomeIcon className='pr-2' icon={faArrowRight}></FontAwesomeIcon>See All Power Tools</Link>
+              <Link className='text-md border border-primary py-1 px-3' to='/allPowerTools'><FontAwesomeIcon className='pr-2' icon={faArrowRight}></FontAwesomeIcon>See All Power Tools</Link>
               </div>
-            <div className="divider mt-20"></div>
+            <div className="divider mt-10"></div>
         </div>
     );
 };

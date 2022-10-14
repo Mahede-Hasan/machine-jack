@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666513/machine_jack/products/security/security3_aa5rgi.jpg",
+        "name": "Security Spray",
+        "price": 120
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666513/machine_jack/products/security/security221_eli1lk.png",
+        "name": "High security door lock",
+        "price": 100
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666513/machine_jack/products/security/security_cuf1wx.jpg",
+        "name": "Handle door lock",
+        "price": 105
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666513/machine_jack/products/security/security2_cxgaxk.jpg",
+        "name": "Total digital security checker",
+        "price": 150
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security99_rujtno.gif",
+        "name": "Total digital security checker",
+        "price": 120
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security44_bhvlkj.jpg",
+        "name": "Door lock Hi Care",
+        "price": 80
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security5_jmfprt.jpg",
+        "name": "High security Lock",
+        "price": 600
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security5a_yizowv.jpg",
+        "name": "Lock Hi Care",
+        "price": 85
+    },
+    {
+        "id": 9,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security22_x7ljeg.jpg",
+        "name": "Total Lock 60mm",
+        "price": 80
+    },
+    {
+        "id": 10,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666512/machine_jack/products/security/security76_mrfd8y.jpg",
+        "name": "Security Spray",
+        "price": 350
+    }
+]

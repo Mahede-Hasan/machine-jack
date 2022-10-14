@@ -1,12 +1,9 @@
 import React from 'react';
-import './PowerTool.css'
-const PowerTool = ({ powerTool }) => {
-    const { img, name, price } = powerTool;
+import './SingleHandTools.css'
+const SingleHandTools = ({handTool}) => {
+    const { img, name, price } = handTool;
     return (
-        <div>
-
-
-            <div class="box-container my-4 mx-auto rounded-md relative w-[220px] h-[340px]">
+        <div class="box-container my-4 mx-auto rounded relative w-[220px] h-[340px]">
                 <a href='#' class="flex justify-center items-center block relative h-44 rounded overflow-hidden ">
                     <img style={{ width: '150px' }} alt="ecommerce" class=" cursor-pointer" src={img} />
                 </a>
@@ -26,9 +23,7 @@ const PowerTool = ({ powerTool }) => {
                 </div></span>
                 <button className='buy-now-btn absolute bottom-0 block align-self-end rounded-b-md text-center text-sm py-1 text-white bg-primary w-full px-auto hover:bg-white cursor-pointer border hover:border-primary hover:text-primary'>Buy Now</button>
             </div>
-
-        </div>
     );
 };
 
-export default PowerTool;
+export default SingleHandTools;

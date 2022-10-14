@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/p_161017_04643-1_1_ac7so1.jpg",
+        "name": "Ball Pen Hammer 2LB",
+        "price": 4
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/p_160922_07290-1_pikcuo.jpg",
+        "name": "Adjustable Wrench 12",
+        "price": 3.5
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656382/machine_jack/products/handtools/Stanley-Tester-Big-350x350_y1uwnj.jpg",
+        "name": "Tester Voltage 600",
+        "price": 1
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/p_161017_04643-1_dtwfes.jpg",
+        "name": "Ball Pen Hammer 1LB",
+        "price": 2.5
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/JET-MP-5A-1-2-350x350_eykupd.gif",
+        "name": "Nose Pliers Heavy",
+        "price": 1.5
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/RIVET-TOOLS-AND-RIVETS_rcbxrk.jpg",
+        "name": "Hand Riveter",
+        "price": 3.5
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/JET-AWS_1-1-350x350_fwvrno.gif",
+        "name": "Adjustable Wrench 10 Black",
+        "price": 3
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/p_160922_07288-1_enpagb.jpg",
+        "name": "Adjustable Wrench 12 Green",
+        "price": 4.5
+    },
+    {
+        "id": 9,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/Plus-Head-PH1-X-80mmL-4-Inch-Insulated-Screwdriver-Hans-Brand-1_k6dm7w.jpg",
+        "name": "Tester Heavy 6 1200V",
+        "price": 2
+    },
+    {
+        "id": 10,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656381/machine_jack/products/handtools/p_171115_05606-1_zsgahm.jpg",
+        "name": "Socket Set 12pcs",
+        "price": 8
+    },
+    {
+        "id": 11,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/Minus-Head-6-Inch-X-14-Inch-Insulated-Screwdriver-Hans-Brand-1_ppp88a.jpg",
+        "name": "Tester 4 1200V",
+        "price": 1
+    },
+    {
+        "id": 12,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/JC0000814_1-2-350x350_ffl1nx.gif",
+        "name": "Small Screw driver 2inch",
+        "price": 1
+    },
+    {
+        "id": 13,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/H1b88b6a4c8d14665a95d3c42f6cf5edd1-1_p65pay.jpg",
+        "name": "Harden Wrench 10inch",
+        "price": 6
+    },
+    {
+        "id": 14,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/flat-5-1_euff4h.png",
+        "name": "Harden Screw driver 2inch",
+        "price": 1.5
+    },
+    {
+        "id": 15,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/590114-1-hMMER_brw3hw.jpg",
+        "name": "Hammer 1LB Fiber",
+        "price": 5
+    },
+    {
+        "id": 16,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656380/machine_jack/products/handtools/CUTTING-PINCERS_aydhvg.jpg",
+        "name": "Carpenter Pincer",
+        "price": 3
+    },
+    {
+        "id": 17,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656379/machine_jack/products/handtools/14-Inch-12-Inch-dr.-89pcs-Professional-Tool-Kit-Hans-Brand-1_vqbxlz.jpg",
+        "name": "Wrench Set",
+        "price": 16
+    },
+    {
+        "id": 18,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656379/machine_jack/products/handtools/ADJUSTABLE-WRENCHES_igjhde.jpg",
+        "name": "Wrench 4pcs Set",
+        "price": 10
+    },
+    {
+        "id": 19,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665656378/machine_jack/products/handtools/YT-2071-1_e76w2z.jpg",
+        "name": "Wrench 12inch",
+        "price": 6
+    }
+]

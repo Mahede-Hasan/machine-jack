@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower155_awtfbl.jpg",
+        "name": "Total Blower 700W",
+        "price": 8
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower132_f7zqiq.jpg",
+        "name": "Stakley Blower 6500W",
+        "price": 5
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower122_hxzbbl.jpg",
+        "name": "Ingco Blower 450W",
+        "price": 7
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower121_bd9iy0.jpg",
+        "name": "Harden Blower 850W",
+        "price": 8
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower17_nwc9lm.jpg",
+        "name": "Total Blower 650W",
+        "price": 6
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660539/machine_jack/products/blower/blower14_fgtclz.png",
+        "name": "Total Heavy Blower 1200W",
+        "price": 10
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower13_invfbh.jpg",
+        "name": "Ingco Blower 750W",
+        "price": 11
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower111_s0gtkb.jpg",
+        "name": "Ingco Blower 650W",
+        "price": 6
+    },
+    {
+        "id": 9,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower2_w2uzgj.jpg",
+        "name": "Ingco Blower 1200W",
+        "price": 14
+    },
+    {
+        "id": 10,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower12_z5gucs.jpg",
+        "name": "Semprox 800W",
+        "price": 7
+    },
+    {
+        "id": 11,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower190_sds6kp.jpg",
+        "name": "Stakley Blower 8500W",
+        "price": 7.5
+    },
+    {
+        "id": 12,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower1_cxpw5g.jpg",
+        "name": "Super 650W",
+        "price": 4
+    },
+    {
+        "id": 13,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665660538/machine_jack/products/blower/blower4_vkdy3n.jpg",
+        "name": "Total Blower 1450W",
+        "price": 15
+    }
+]

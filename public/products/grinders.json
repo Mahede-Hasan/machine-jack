@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666441/machine_jack/products/grinder/grinder10_sundhl.jpg",
+        "name": "Total Grinding 1400W",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666441/machine_jack/products/grinder/grinder12_snjnrj.jpg",
+        "name": "Total Grinding 1250",
+        "price": 160
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder11_t2neqi.jpg",
+        "name": "Makuti Grinding 650",
+        "price": 110
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder9_nrbacm.jpg",
+        "name": "Ingco Grinding 850",
+        "price": 140
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder7_opyetu.jpg",
+        "name": "Max Grinding 650W",
+        "price": 80
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder6_qmqo7d.jpg",
+        "name": "Total Grinding with handle 850W",
+        "price": 140
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder4_axtjvn.jpg",
+        "name": "Ingco Grinding 850W",
+        "price": 130
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder5_qabe7d.jpg",
+        "name": "Semprox 960W",
+        "price": 105
+    },
+    {
+        "id": 9,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder2_h4esid.jpg",
+        "name": "Crown grinding 840W",
+        "price": 110
+    },
+    {
+        "id": 10,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666439/machine_jack/products/grinder/grinder1_ifnfrs.jpg",
+        "name": "Makita Grinding 1200W",
+        "price": 140
+    },
+    {
+        "id": 11,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666439/machine_jack/products/grinder/grinder13_fxeohj.jpg",
+        "name": "Makita Grinding 850W",
+        "price": 90
+    },
+    {
+        "id": 12,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666439/machine_jack/products/grinder/grinder3_prkpfd.jpg",
+        "name": "Ingco Grinding 650W",
+        "price": 108
+    },
+    {
+        "id": 13,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666439/machine_jack/products/grinder/grinder14_ourycb.jpg",
+        "name": "Total Grinding 850W",
+        "price": 90
+    },
+    {
+        "id": 14,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666439/machine_jack/products/grinder/grinder15_jocrrl.jpg",
+        "name": "Xpert Grinding 900W",
+        "price": 120
+    },
+    {
+        "id": 15,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666440/machine_jack/products/grinder/grinder8_drgpon.jpg",
+        "name": "Semprox 660W",
+        "price": 80
+    }
+]

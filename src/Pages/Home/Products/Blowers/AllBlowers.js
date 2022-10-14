@@ -1,8 +1,8 @@
 import React from 'react';
-import usePowerTools from '../../../../hooks/usePowerTools';
+import useBlower from '../../../../hooks/useBlower';
 
-const AllPowerTools = () => {
-    const [powerTools] = usePowerTools()
+const AllBlowers = () => {
+    const [blowers] = useBlower()
     return (
         <div>
             <h1 className='py-4 text-3xl font-semibold pl-12 pt-12'>All Power Tools</h1>
@@ -11,16 +11,16 @@ const AllPowerTools = () => {
 
                 {
 
-                    powerTools.map(powerTool =>
+                    blowers.map(blower =>
                         <div class="box-container rounded-md mt-6 mb-12 relative w-[220px] h-[340px]">
                             <a href='#' class="flex justify-center items-center block relative h-44 rounded overflow-hidden ">
-                                <img style={{ width: '150px' }} alt="ecommerce" class=" cursor-pointer" src={powerTool.img} />
+                                <img style={{ width: '150px' }} alt="ecommerce" class=" cursor-pointer" src={blower.img} />
                             </a>
 
                             <div class="mt-4 pl-3">
 
-                                <h2 class="text-gray-900 title-font text-md font-medium">{powerTool.name}</h2>
-                                <p class="mt-1 text-sm">${powerTools.price}</p>
+                                <h2 class="text-gray-900 title-font text-md font-medium">{blower.name}</h2>
+                                <p class="mt-1 text-sm">${blower.price}</p>
                                 <p className='text-sm'>Available Quantity:</p>
                             </div>
                             <span><div className="rating pl-3 w-20">
@@ -41,4 +41,4 @@ const AllPowerTools = () => {
     );
 };
 
-export default AllPowerTools;
+export default AllBlowers;

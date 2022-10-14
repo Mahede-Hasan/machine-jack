@@ -8,7 +8,7 @@ const Banner = () => {
             background: `url(${Banner1})`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
-            width: '1168px',
+            width: '90%',
             height: '400px',
             margin: '0px 48px'
         }}>

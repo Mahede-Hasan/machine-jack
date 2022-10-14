@@ -1,26 +1,26 @@
 import React from 'react';
-import usePowerTools from '../../../../hooks/usePowerTools';
+import useGrinder from '../../../../hooks/useGrinders';
 
-const AllPowerTools = () => {
-    const [powerTools] = usePowerTools()
+const AllGrinders = () => {
+    const [grinders] = useGrinder()
     return (
         <div>
-            <h1 className='py-4 text-3xl font-semibold pl-12 pt-12'>All Power Tools</h1>
+            <h1 className='py-4 text-3xl font-semibold pl-12 pt-12'>All Grinding Machine</h1>
 
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5  lg-grid-cols-5 gap-5 mx-12'>
 
                 {
 
-                    powerTools.map(powerTool =>
+                    grinders.map(grinder =>
                         <div class="box-container rounded-md mt-6 mb-12 relative w-[220px] h-[340px]">
                             <a href='#' class="flex justify-center items-center block relative h-44 rounded overflow-hidden ">
-                                <img style={{ width: '150px' }} alt="ecommerce" class=" cursor-pointer" src={powerTool.img} />
+                                <img style={{ width: '150px' }} alt="ecommerce" class=" cursor-pointer" src={grinder.img} />
                             </a>
 
                             <div class="mt-4 pl-3">
 
-                                <h2 class="text-gray-900 title-font text-md font-medium">{powerTool.name}</h2>
-                                <p class="mt-1 text-sm">${powerTools.price}</p>
+                                <h2 class="text-gray-900 title-font text-md font-medium">{grinder.name}</h2>
+                                <p class="mt-1 text-sm">${grinder.price}</p>
                                 <p className='text-sm'>Available Quantity:</p>
                             </div>
                             <span><div className="rating pl-3 w-20">
@@ -41,4 +41,4 @@ const AllPowerTools = () => {
     );
 };
 
-export default AllPowerTools;
+export default AllGrinders;

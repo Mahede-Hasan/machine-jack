@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666474/machine_jack/products/compressor/compessor111_dm1br0.jpg",
+        "name": "Ingco Compressor 1200W",
+        "price": 1100
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666474/machine_jack/products/compressor/compessor55_ky4kcy.jpg",
+        "name": "Total Total Compressor 860W",
+        "price": 800
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666474/machine_jack/products/compressor/compessor34_uuhplg.jpg",
+        "name": "Crown Compressor 750W",
+        "price": 1140
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666474/machine_jack/products/compressor/compessor54_j4kpml.jpg",
+        "name": "Crown Compressor 950W",
+        "price": 1400
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666474/machine_jack/products/compressor/compessor123_stgabg.jpg",
+        "name": "Total Compressor 860W",
+        "price": 780
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor3_hgxaad.gif",
+        "name": "Compressor Nozzle",
+        "price": 80
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor_n93o72.jpg",
+        "name": "Total Compressor 760W",
+        "price": 900
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor23_e3gto3.jpg",
+        "name": "Total Compressor 960W",
+        "price": 1200
+    },
+    {
+        "id": 9,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor12_bub0d8.jpg",
+        "name": "Total Compressor 1200W",
+        "price": 1200
+    },
+    {
+        "id": 10,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor5_uzdejl.jpg",
+        "name": "Worksite compressor 1200W",
+        "price": 450
+    },
+    {
+        "id": 11,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666473/machine_jack/products/compressor/compessor2_czx3va.jpg",
+        "name": "Silica Compressor 600W",
+        "price": 630
+    },
+    {
+        "id": 12,
+        "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1665666472/machine_jack/products/compressor/compessor333_x0bxgb.jpg",
+        "name": "Compressor Total Heavy 1600W",
+        "price": 2000
+    }
+]
