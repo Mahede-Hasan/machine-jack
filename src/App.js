@@ -11,7 +11,9 @@ import Shop from './Pages/Shop/Shop';
 import AllGrinders from './Pages/Home/Products/Grinder/AllGrinders';
 import AllCompressor from './Pages/Home/Products/Compressor/AllCompressor';
 import AllSecurities from './Pages/Home/Products/Security/AllSecurities';
-
+import Login from './Pages/Login/Login/Login';
+import Register from './Pages/Login/Register/Register';
+import { ToastContainer } from 'react-toastify';
 
 function App() {
   return (
@@ -28,7 +30,10 @@ function App() {
         <Route path='/allGrinders' element={<AllGrinders></AllGrinders>}></Route>
         <Route path='/allCompressor' element={<AllCompressor></AllCompressor>}></Route>
         <Route path='/allSecurities' element={<AllSecurities></AllSecurities>}></Route>
+        <Route path='/login' element={<Login></Login>}></Route>
+        <Route path='/register' element={<Register></Register>}></Route>
       </Routes>
+      <ToastContainer />
       <Footer></Footer>
     </div>
   );

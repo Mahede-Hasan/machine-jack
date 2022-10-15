@@ -23,3 +23,11 @@
     width: 17.25%;
     border-radius: 0% !important;
 }
+
+.dropdown-container:hover{
+    background-color: rgb(216, 216, 216);
+}
+
+.dropdown-container a:hover{
+    background-color: transparent !important;
+}

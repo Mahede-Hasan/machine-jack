@@ -2,7 +2,7 @@ import React from 'react';
 import useCompressor from '../../../../hooks/useCompressor';
 
 const AllCompressor = () => {
-    const [compressors] = useCompressor;
+    const [compressors] = useCompressor();
     return (
         <div>
             <h1 className='py-4 text-3xl font-semibold pl-12 pt-12'>All Grinding Machine</h1>
