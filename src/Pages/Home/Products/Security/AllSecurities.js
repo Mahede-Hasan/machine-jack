@@ -30,7 +30,7 @@ const AllSecurities = () => {
                                 <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                 <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                             </div></span>
-                            <label className='rounded-b-md absolute bottom-0 block text-center text-sm py-1 text-white bg-primary w-full px-auto hover:bg-white cursor-pointer border hover:border-primary hover:text-primary'>Buy Now</label>
+                            <label className='rounded-b-md absolute bottom-0 block text-center text-sm py-1 text-white bg-primary w-full px-auto hover:bg-white cursor-pointer border hover:border-primary hover:text-primary'>Add To Cart</label>
                         </div>
 
                     )

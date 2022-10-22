@@ -9,8 +9,11 @@ import SupportAndService from './SupportAndService/SupportAndService';
 import Grinders from './Products/Grinder/Grinders';
 import Compressors from './Products/Compressor/Compressors';
 import Securities from './Products/Security/Securities';
+import Stat from './Stat/Stat';
+import Offer from './Offer/Offer';
 
 const Home = () => {
+
     return (
         <div>
             <Banner></Banner>
@@ -22,6 +25,8 @@ const Home = () => {
             <Grinders></Grinders>
             <Compressors></Compressors>
             <Securities></Securities>
+            <Offer></Offer>
+            <Stat></Stat>
             <Contact></Contact>
         </div>
     );

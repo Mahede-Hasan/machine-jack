@@ -14,25 +14,58 @@ import AllSecurities from './Pages/Home/Products/Security/AllSecurities';
 import Login from './Pages/Login/Login/Login';
 import Register from './Pages/Login/Register/Register';
 import { ToastContainer } from 'react-toastify';
+import Purchase from './Pages/Purchase/Purchase';
+import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
+import Dashboard from './Pages/Dashboard/Dashboard';
+import Cart from './Pages/Home/Products/Cart/Cart';
+import NotFound from './Pages/Shared/NotFound/NotFound';
+import MyOrdersDash from './Pages/Dashboard/MyOrdersDash';
+import History from './Pages/Dashboard/History';
+import AddProduct from './Pages/AddProduct/AddProduct';
 
 function App() {
   return (
     <div>
+           
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/shop' element={<Shop></Shop>}></Route>
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
+        <Route path='/powertool/:cartId' element={<Cart></Cart>}></Route>
         <Route path='/allPowerTools' element={<AllPowerTools></AllPowerTools>}></Route>
         <Route path='/allHandTools' element={<AllHandTools></AllHandTools>}></Route>
         <Route path='/blowers' element={<AllBlowers></AllBlowers>}></Route>
         <Route path='/allGrinders' element={<AllGrinders></AllGrinders>}></Route>
         <Route path='/allCompressor' element={<AllCompressor></AllCompressor>}></Route>
         <Route path='/allSecurities' element={<AllSecurities></AllSecurities>}></Route>
+
+        <Route path='/purchase' element={
+          <RequireAuth>
+            <Purchase></Purchase>
+          </RequireAuth>
+        }></Route>
+
+        <Route path='addProduct' element={
+        <RequireAuth>
+          <AddProduct></AddProduct>
+        </RequireAuth>}
+        ></Route>
+
+        <Route path='dashboard' element={
+          <RequireAuth>
+            <Dashboard></Dashboard>
+          </RequireAuth>}>
+          <Route index element={<MyOrdersDash></MyOrdersDash>}></Route>
+          <Route path='history' element={<History></History>}></Route>
+          </Route>
+
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>
+        <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+
       <ToastContainer />
       <Footer></Footer>
     </div>

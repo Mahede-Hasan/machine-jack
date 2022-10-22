@@ -4,16 +4,15 @@ import './Banner.css';
 
 const Banner = () => {
     return (
-        <div className='banner' style={{
+        <div className='banner mx-auto lg:h-[400px] md:h-[350px]' style={{
             background: `url(${Banner1})`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             width: '90%',
-            height: '400px',
-            margin: '0px 48px'
+            margin: '0px auto'
         }}>
-            <p>Welcome to Machine Jack <br /> <a href="https://codepen.io/grohit/">
-                <small>We provide best Power tools and Service</small></a>
+            <p><span className='lg:text-[44px] text-[30px]'>Welcome to Machine Jack</span> <br /> <a href="https://codepen.io/grohit/">
+                <small className='lg:text-[18px] text-[10px] '>We provide best Power tools and Service</small></a>
             </p>
         </div>
     );
