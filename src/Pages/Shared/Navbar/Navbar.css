@@ -18,7 +18,6 @@
 .dropdown {
     position: fixed;
     z-index: 999;
-    
     border-radius: 0% !important;
     background-color: #ececec;
 }
@@ -30,4 +29,14 @@
 
 .dropdown-container a:hover{
     background-color: transparent !important;
+}
+
+.res-nav{
+top: 120px;
+height: 300px;
+padding-bottom: 40px;
+}
+
+.res-menu a{
+    padding-bottom: 10px !important;
 }

@@ -4,7 +4,7 @@ import './Banner.css';
 
 const Banner = () => {
     return (
-        <div className='banner mx-auto lg:h-[400px] md:h-[350px]' style={{
+        <div className='banner mx-auto lg:h-[400px] md:h-[350px] sm:h-[300px]' style={{
             background: `url(${Banner1})`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',

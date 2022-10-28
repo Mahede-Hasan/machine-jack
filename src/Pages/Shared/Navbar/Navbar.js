@@ -121,7 +121,7 @@ const Navbar = () => {
                     <div className="lg:flex block list-none text-gray-100 pr-12">
 
                         {/* Start Responsive nav  */}
-                        <ul className={`absolute pt-2 overflow-x-hidden  bg-orange-400 mt-6 ${open ? 'top-[120px]' : 'hidden'}`}>
+                        <ul className={`res-menu absolute pt-2 overflow-x-hidden  bg-orange-400 mt-6 ${open ? 'res-nav' : 'hidden'}`}>
                             <li><Link className='px-4 lg:hidden font-semibold hover:text-primary transition duration-500' to='/home'>Home</Link></li>
                             <li> <Link className='px-4 lg:hidden font-semibold text-bold hover:text-primary transition duration-500' to='/shop'>Shop</Link></li>
                             <li><Link className='px-4 lg:hidden font-semibold text-bold hover:text-primary transition duration-500' to='/blogs'>Blogs</Link></li>
