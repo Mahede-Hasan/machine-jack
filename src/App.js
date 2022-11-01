@@ -22,13 +22,35 @@ import NotFound from './Pages/Shared/NotFound/NotFound';
 import MyOrdersDash from './Pages/Dashboard/MyOrdersDash';
 import History from './Pages/Dashboard/History';
 import AddProduct from './Pages/AddProduct/AddProduct';
+import { useEffect, useState } from 'react';
+import { ScaleLoader } from 'react-spinners';
 
 function App() {
+  const [loading,setLoading] = useState(false);
+
+  useEffect(()=>{
+    setLoading(true)
+    setTimeout(() => {
+      setLoading(false)
+    }, 5000);
+  },[])
   return (
     <div>
            
       <Header></Header>
-      <Routes>
+      {
+        loading ?
+        <div className='loading-spinner'>
+        <ScaleLoader
+        color={'#f9a206'}
+        loading={loading}
+        size={150}
+        aria-label="Loading Spinner"
+        data-testid="loader"
+      />
+        </div>
+        :
+        <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/shop' element={<Shop></Shop>}></Route>
@@ -65,6 +87,7 @@ function App() {
         <Route path='/register' element={<Register></Register>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      }
 
       <ToastContainer />
       <Footer></Footer>

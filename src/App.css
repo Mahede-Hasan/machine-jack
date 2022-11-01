@@ -1,0 +1,7 @@
+.loading-spinner{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
