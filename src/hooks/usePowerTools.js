@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const usePowerTools = () => {
     const [powerTools, setPowerTools] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/powertools')
+        fetch('https://machine-jack-server.onrender.com')
             .then(res => res.json())
             .then(data => {
                 setPowerTools(data);
