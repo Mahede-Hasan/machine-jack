@@ -4,7 +4,7 @@ Machine Jack [https://exquisite-cocada-2b5ef9.netlify.app/](https://exquisite-co
 
 ## Available Scripts
 
-Using This Project Tolls
+These Tools Using This Project
 1. React
 2. Express.js
 3. MongoDB
